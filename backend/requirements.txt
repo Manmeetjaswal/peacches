@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+cloudconvert
+stability-sdk
+requests
+fish-audio-sdk
+python-multipart
+cloudinary
+supabase-py
+google-api-python-client 
